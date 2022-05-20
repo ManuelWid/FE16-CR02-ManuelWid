@@ -68,10 +68,6 @@ body {
       flex-wrap: wrap;
 }
 
-.header .header-nav .header-link {
-  font-size: 1.1rem;
-}
-
 .header .header-nav .header-search {
   -webkit-box-align: center;
       -ms-flex-align: center;
