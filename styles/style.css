@@ -275,6 +275,10 @@ body {
   text-decoration: none;
 }
 
+.footer .footer-link:hover {
+  color: grey;
+}
+
 .footer .footer-social {
   width: 10vw;
   -webkit-box-pack: center;

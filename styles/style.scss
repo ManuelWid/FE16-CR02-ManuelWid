@@ -205,6 +205,9 @@ body {
     .footer-link {
         color: white;
         text-decoration: none;
+        &:hover {
+            color: grey;
+        }
     }
 
     .footer-social {
