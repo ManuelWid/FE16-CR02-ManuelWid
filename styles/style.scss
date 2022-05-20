@@ -49,9 +49,11 @@ body {
         align-items: center;
         justify-content: space-between;
         flex-wrap: wrap;
+        .header-link {
+            font-size: 1.1rem;
+        }
         .header-search {
             align-items: center;
-            // margin-left: 2rem;
             &::after {
                 content: "\26B2";
                 transform: rotate(-45deg);
